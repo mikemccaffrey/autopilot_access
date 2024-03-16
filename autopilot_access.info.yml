@@ -1,0 +1,5 @@
+name: Autopilot Views Access
+type: module
+description: 'Allows a view to only be accessible via autopilot.'
+package: Kalamuna
+core_version_requirement: ^10
